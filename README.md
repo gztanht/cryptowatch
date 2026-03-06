@@ -84,6 +84,8 @@ SOL     $88.51       🔴 -3.45%     $50.39B       $5.51B
 | `watch.mjs btc` | Single coin check |
 | `watch.mjs --top 20` | Market cap ranking |
 | `watch.mjs --vs cny` | CNY pricing |
+| `top.mjs` ✨ | 24h gainers leaderboard |
+| `top.mjs --losers` | 24h losers leaderboard |
 | `alert.mjs btc --above 100000` | Set price alert |
 | `alert.mjs --list` | List all alerts |
 | `alert.mjs --remove 1` | Remove alert #1 |
