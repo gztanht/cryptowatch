@@ -1,0 +1,27 @@
+{
+  "name": "cryptowatch",
+  "displayName": "₿ CryptoWatch",
+  "version": "1.0.2",
+  "description": "加密货币价格监控专家 - 实时价格追踪，24h 涨跌幅排行榜，绝不错过暴涨",
+  "author": "@gztanht",
+  "license": "MIT",
+  "pricing": {
+    "model": "freemium",
+    "freeQuota": 5,
+    "freeQuotaPeriod": "daily",
+    "unlimitedPrice": "0.5",
+    "unlimitedCurrency": "USDT"
+  },
+  "category": "crypto",
+  "tags": ["crypto", "price", "bitcoin", "ethereum", "alert", "tracking"],
+  "features": [
+    "实时价格查询",
+    "24h 涨跌幅排行",
+    "价格警报设置",
+    "多币种监控"
+  ],
+  "repository": "https://github.com/gztanht/cryptowatch",
+  "homepage": "https://clawhub.com/skills/cryptowatch",
+  "createdAt": "2026-03-06",
+  "updatedAt": "2026-03-09"
+}
